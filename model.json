@@ -1,0 +1,9 @@
+{   
+    "prompt": "tilt shift art of abstract style anime art of a magical girl, 8k, stunning intricate details",
+    "width": 1024,
+    "height": 1024,
+    "num_inference_steps": 50,
+    "guidance_scale": 7.0,
+    "num_images_per_prompt": 1,
+    "seed": 0
+}

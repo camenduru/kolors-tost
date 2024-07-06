@@ -1,0 +1,54 @@
+{
+    "$schema": "http://json-schema.org/draft-04/hyper-schema#",
+    "type": "object",
+    "properties": {
+      "readme": {
+        "type": "string",
+        "title": "Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis",
+        "author": "Kolors Team",
+        "code": "https://github.com/Kwai-Kolors/Kolors",
+        "paper": "https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf",
+        "page": "https://kwai-kolors.github.io/",
+        "tags": [
+          "Text to Image"
+        ],
+        "widget": "readme"
+      },
+      "prompt": {
+        "type": "string",
+        "description": "Prompt",
+        "widget": "textarea"
+      },
+      "width": {
+        "type": "integer",
+        "description": "Width"
+      },
+      "height": {
+        "type": "integer",
+        "description": "Height"
+      },
+      "num_inference_steps": {
+        "type": "integer",
+        "description": "Num Inference Steps"
+      },
+      "guidance_scale": {
+        "type": "number",
+        "description": "Guidance Scale"
+      },
+      "num_images_per_prompt": {
+        "type": "integer",
+        "description": "Num Images Per Prompt",
+        "readOnly": "true"
+      },
+      "seed": {
+        "type": "number",
+        "description": "Seed (0 = random)"
+      }
+    },
+    "buttons": [
+      {
+        "id": "enter",
+        "label": "🥪 Enter"
+      }
+    ]
+  }
