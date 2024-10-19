@@ -18,4 +18,4 @@ https://kwai-kolors.github.io/ <br />
 ![Screenshot 2024-07-07 015957](https://github.com/camenduru/kolors-tost/assets/54370274/28c4f455-85ca-4c92-b2db-8a4d5d088cbb)
 
 ### 🏢 Sponsor
-https://runpod.io
+[https://runpod.io](https://runpod.io?ref=iqi9iy8y)
